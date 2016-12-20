@@ -24,6 +24,13 @@
       <artifactId>liquibase-core</artifactId>
       <version>3.5.3</version>
     </dependency>
+	  <!-- https://mvnrepository.com/artifact/com.mtvi.plateng.subversion/svnpublisher -->
+<dependency>
+    <groupId>com.mtvi.plateng.subversion</groupId>
+    <artifactId>svnpublisher</artifactId>
+    <version>0.1</version>
+</dependency>
+
   </dependencies>
   <build>
     <plugins>
